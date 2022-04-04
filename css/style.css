@@ -27,3 +27,21 @@ h5 span {
 figure {
     margin-left: 0px;
 }
+
+ul {
+    text-align: left;
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: rgb(86, 143, 222);
+    color: white;
+    text-align: left;
+}
+
+.three {
+    width: 50%;
+}
