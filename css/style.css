@@ -29,7 +29,8 @@ figure {
 }
 
 ul {
-    text-align: left;
+    margin-left: 0px;
+    padding-left: 15px;
 }
 
 table {
@@ -44,4 +45,8 @@ thead {
 
 .three {
     width: 50%;
+}
+
+.skyblue {
+    background-color: skyblue;
 }
