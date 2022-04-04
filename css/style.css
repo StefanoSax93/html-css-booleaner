@@ -50,3 +50,22 @@ thead {
 .skyblue {
     background-color: skyblue;
 }
+
+footer h5 {
+    margin-bottom: 0px;
+}
+
+footer div {
+    width: 311px;
+    height: 207px;
+    color: white;
+    padding: 5px;
+}
+
+.photo-one {
+    background-image: url("../img/monitor.jpg");
+}
+
+.photo-two {
+    background-image: url("../img/graph.jpg");
+}
