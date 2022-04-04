@@ -1,0 +1,29 @@
+.logo {
+    background-image: url("../img/pattern.png");
+    height: 2%;
+    background-color: rgb(86, 143, 222);
+    background-size: contain;
+}
+
+.logo img {
+    height: 80%;
+    width: 20%;
+    margin-top: 15px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h5 {
+    margin-top: 0px;
+    color: grey;
+}
+
+h5 span {
+    color: rgb(86, 143, 222);
+}
+
+figure {
+    margin-left: 0px;
+}
